@@ -5,6 +5,7 @@
 - pom 文件的配置，支持jsp
 - application.properties配置web项目结构
 - git 地址 : https://github.com/opensourceteams/spring-boot_n_05-tomcat-jsp
+- 视频地址 : https://www.youtube.com/watch?v=eUKVs1fTM8g
 
 ## pom.xml 文件配置
 
